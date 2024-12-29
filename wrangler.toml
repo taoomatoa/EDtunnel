@@ -4,6 +4,10 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
+[[routes]]
+pattern = "taoovpn.cloud"
+custom_domain = true
+
 [vars]
 PROXYIP = "103.133.223.52:2096"
 UUID = "2d31d87f-78bf-4410-97c9-a8a083211eb7"

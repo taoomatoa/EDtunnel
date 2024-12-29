@@ -1,4 +1,4 @@
-name = "sg1"
+name = "sg2"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -9,7 +9,7 @@ pattern = "sg1.taoovpn.cloud"
 custom_domain = true
 
 [vars]
-PROXYIP = "91.192.81.154:2053"
-UUID = "77147492-4837-4338-b0e6-7b9cbbb749db"
+PROXYIP = "143.198.213.197:443"
+UUID = "99e09016-356b-4f35-918f-f57567e3da0e"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"

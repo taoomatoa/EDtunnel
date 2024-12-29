@@ -1,15 +1,15 @@
-name = "id2"
+name = "sg1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "id2.taoovpn.cloud"
+pattern = "sg1.taoovpn.cloud"
 custom_domain = true
 
 [vars]
-PROXYIP = "43.218.77.16:443"
-UUID = "ddf27957-0eb2-48a7-ad1c-6c460418bf61"
+PROXYIP = "91.192.81.154:2053"
+UUID = "77147492-4837-4338-b0e6-7b9cbbb749db"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
